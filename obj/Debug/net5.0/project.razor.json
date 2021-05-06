@@ -15619,6 +15619,21 @@
   "RootNamespace": "webProject",
   "Documents": [
     {
+      "FilePath": "/home/henrique/Documentos/pluralSight/webProject/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/henrique/Documentos/pluralSight/webProject/Views/shared/_Layout.cshtml",
+      "TargetPath": "Views\\shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/henrique/Documentos/pluralSight/webProject/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/henrique/Documentos/pluralSight/webProject/Views/Pie/List.cshtml",
       "TargetPath": "Views\\Pie\\List.cshtml",
       "FileKind": "mvc"

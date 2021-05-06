@@ -32,3 +32,6 @@
 /home/henrique/Documentos/pluralSight/webProject/obj/Debug/net5.0/webProject.genruntimeconfig.cache
 /home/henrique/Documentos/pluralSight/webProject/obj/Debug/net5.0/webProject.csproj.CopyComplete
 /home/henrique/Documentos/pluralSight/webProject/obj/Debug/net5.0/Razor/Views/Pie/List.cshtml.g.cs
+/home/henrique/Documentos/pluralSight/webProject/obj/Debug/net5.0/Razor/Views/shared/_Layout.cshtml.g.cs
+/home/henrique/Documentos/pluralSight/webProject/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/henrique/Documentos/pluralSight/webProject/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
